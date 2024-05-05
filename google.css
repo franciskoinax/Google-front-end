@@ -1,0 +1,60 @@
+@media (min-width: 600px)
+{body{
+color: white;
+background-color: rgb(70, 69, 71);
+font-size: 29px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+}
+h1{/*Google*/
+    text-align: center;
+margin-top: 85px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.homepage_form{ /*For the Google search and "I'm feeling lucky"*/
+    padding: 10px;
+}
+#index_form{/*For the Google search bar*/
+text-align: center;
+
+}
+
+div{/*the google image and advanced links*/
+text-align: right;
+margin: 0;
+
+}
+.browsers{ /*google search spacing*/
+margin: 40px;
+margin-top: 30px;
+color: white;
+
+}
+
+.bar{ /*Google search bar*/
+border: solid;
+border-color: rgb(41, 43, 43);
+padding-bottom: 15px;
+padding-top: 15px;
+padding-left: 250px;
+padding-right: 250px;
+border-radius: 25px;
+font: 16px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.search_advanced{ /*Google advanced forms*/
+    font-size: 16px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+p{
+    text-align: left;
+}
+
+form{  /*Google advanced forms*/
+    text-align: left;
+}
+
